@@ -69,14 +69,11 @@ Python · Streamlit · Claude AI (Anthropic) · SQLite · Haversine Algorithm ·
 
 ---
 
-## 👥 Team — Night Wolfpack
+## 👥 Team — Night Wolf
 
 | Name | Role |
 |---|---|
 | **Deepak Tandale** | Team Leader |
-| Krushna Ingole | Student |
-| Ritesh Ghogare | Student |
-| Neha Kadas | Student |
 
 **Institution:** Shri Shivaji Institute of Engineering & Management Studies, Maharashtra
 **Submission:** Road Safety Hackathon 2026 — CoERS, RBG Labs, IIT Madras
